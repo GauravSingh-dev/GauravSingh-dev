@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/264642...">
+<!--img align="right" alt="Coding" width="200" src="https://dribbble.com/shots/15628387-Curious-Developer-Landing-Page-Illustration"--->
 
 
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravSingh-dev&show_icons=true&theme=highcontrast)
