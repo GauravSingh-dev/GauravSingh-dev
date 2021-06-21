@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/264642...">
+
+
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravSingh-dev&show_icons=true&theme=highcontrast)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh-dev)](https://github.com/GauravSingh-dev/github-readme-stats)
@@ -9,7 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsingh-dev" alt="gauravsingh-dev" /></a> </p>
 
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15578550-Developer-Building-Product")
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
