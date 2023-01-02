@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E- Commerce Website**
+- 🔭 I’m currently working as a Security Engineer at  **Accenture**
 
 - 🌱 I’m currently learning **ReactJs MongoDB ExpressJs NodeJs**
 
-- 💬 Ask me about **React, C++, Oops, Operating System, DBMS, Networking, AWS Serverless, EC 2 instances, My SQL, SQL, HTML5, CSS**
+- 💬 Ask me about **React, C++, Oops, Operating System, DBMS, Networking,Security Incident Event Monitoring, Security Orchestration, Automation and Response (SOAR), AWS Serverless, EC 2 instances, My SQL, SQL, HTML5, CSS**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/100DTMvxEWQVkms7Sd2wf5V9mSZBG7fbM/view?usp=sharing](https://drive.google.com/file/d/100DTMvxEWQVkms7Sd2wf5V9mSZBG7fbM/view?usp=sharing)
 
